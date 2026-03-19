@@ -3,7 +3,7 @@
 
 **奈云（NaiYun）** 是一家运营时间较久的网络加速服务商，主打多平台支持、专线网络、流媒体解锁与常用海外服务可用性，适合日常浏览、流媒体娱乐、远程办公与常规跨境网络使用。
 
-仓库 GitHub 仓库主页：https://github.com/jichangbaike/naiyun
+奈云 GitHub 仓库主页：https://github.com/jichangbaike/naiyun
 
 > 📮 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 >

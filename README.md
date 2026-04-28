@@ -17,7 +17,7 @@
 
 ---
 
-## **奈云官网入口
+## 奈云官网入口
 
 - 👉 **奈云官网地址**：  
   [https://finalto.xyz/U87fKN](https://finalto.xyz/U87fKN)
@@ -153,9 +153,10 @@
 
 <details>
 <summary>点击展开查看（长图）</summary>
-
-<img src="https://raw.githubusercontent.com/jichangbaike/naiyun/refs/heads/main/images/naiyun-test-20260428.png" width="900" alt="奈云 Netflix 测试截图 2026-04-28 联通 2Gbps" title="奈云 Netflix 测试截图">
+<img src="https://raw.githubusercontent.com/jichangbaike/naiyun/refs/heads/main/images/naiyun-test-20260428.png" width="900" alt="奈云 测试截图" title="奈云测试截图">
 </details>
+
+ 2026-04-28， 电信 1Gbps
 
 ---
 

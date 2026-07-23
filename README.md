@@ -8,7 +8,7 @@
 >
 > 📮 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 >
-> 📒 最后更新：**2026-07-17**
+> 📒 最后更新：**2026-07-23**
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -19,10 +19,20 @@
 
 ## 奈云官网入口
 
-👉 **奈云官网地址**：  
-[奈云官网注册入口](https://finalto.xyz/U87fKN)
+- 👉 **奈云官网地址**：  
+  [奈云官网注册主入口](https://finalto.xyz/U87fKN)
+
+- 👉 **奈云官网备用地址**： 
+
+  [奈云官网注册备用入口](https://finalto.xyz/3ZcJKj)
 
 > 如果无法打开，请使用代理。
+
+---
+
+## 重要通知
+
+奈云原运营团队近期无法正常联系，目前据公开信息，新运营团队已基于 5 月中旬备份数据，在新的域名环境中恢复服务。
 
 ---
 
@@ -152,10 +162,11 @@
 
 <details>
 <summary>点击展开查看（长图）</summary>
-<img src="https://raw.githubusercontent.com/jichangbaike/naiyun/refs/heads/main/images/naiyun-test-20260428.png" width="900" alt="奈云 测试截图" title="奈云测试截图">
+<img src="https://raw.githubusercontent.com/jichangbaike/naiyun/refs/heads/main/images/naiyun-test-20260723.png" width="900" alt="奈云 测试截图" title="奈云测试截图">
 </details>
 
- 2026-06-16， 电信 2Gbps
+
+ 2026-07-23， 电信 2Gbps
 
 ---
 
@@ -203,5 +214,5 @@ A：建议查看官网帮助中心、公告或工单系统。
 禁止整段复制、轻度改写后重新发布、镜像式搬运目录骨架与说明逻辑，以及长期针对性跟抄本账号下多个仓库内容。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-07-17`  
-- **Version:** `v1.2`
+- **Last Updated:** `2026-07-23`  
+- **Version:** `v1.6`
